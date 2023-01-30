@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+@media screen (width - 800px){
+        
+}
+
+.header_1{
+   
+    height: 80px;
+    text-align: center;
+    padding-top: 30px;
+    flex: 6;
+    padding-left: 550px;
+    font-size: 50px;
+}
+
+.home_1{
+    display: flex;
+    background-color: #FF0000;
+}
+.nav_bar{
+    background-color: #FF0000;
+    flex: 5;
+    height: 110px;
+    
+}
+
+li{
+    display: inline;
+    
+}
+
+.nav_bar ul{
+    padding-top: 30px;
+    
+}
+.nav_bar ul a{
+    text-decoration: none;
+    font-size: 40px;
+    padding: 20px 20px;
+
+    color: #000000;
+    
+}
+.nav_bar ul a:hover{
+    text-decoration: overline;
+    font-size: 40px;
+    padding: 20px 20px;
+
+    color: #152C5C;
+
+    
+}
+#bio{
+    background-image: url(https://wallpaperaccess.com/full/1247180.jpg);   
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1000px;
+    
+}
+.bio_1{
+   padding-top: 100px;
+}
+
+
+.header_bio{
+    font-size: 150px;
+    color: #FF0000;
+    padding-left: 90px;
+}
+
+.para_bio{
+    font-size: 30px;
+    color: #FF0000;
+    padding-left: 90px;
+    padding-right: 550px;
+    padding-top: 70px;
+}
+
+#quote{
+    background-image: url(https://images.hdqwalls.com/download/spiderman-along-side-wall-nj-1920x1080.jpg);   
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1000px;
+
+}
+
+.quote_bio{
+    font-size: 100px;
+    color: #FF0000;
+    margin-top: 280px;
+    margin-left: 1000px;
+    margin-right: 50px;
+    
+}
+
+.quote_bio:hover{
+   font-size: 100px;
+    color: #152C5C;
+    margin-top: 280px;
+    margin-left: 1000px;
+    margin-right: 50px;
+}
+
+.foot_1{
+    text-align: center;
+    background-color: #152C5C;
+    height: 150px;
+}
+
+.foot_1 h1{
+    padding-top: 10px;
+    color: #FF0000;
+
+}
+.footer_ul{
+    text-align: center;
+    padding-top: 60px;
+    font-size: 40px;
+}
+
+.footer_ul a{
+   
+    text-decoration: none;
+}
+
+.footer_ul a:hover{
+    text-decoration: underline;
+    color: #FF0000;
+}
+.footer_ul ul{
+    
+}
+
+.footer_ul li{
+    padding: 30px 30px;
+    color: #FF0000;
+    
+}
